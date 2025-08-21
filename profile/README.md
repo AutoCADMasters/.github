@@ -12,8 +12,8 @@
 
 ## 📐 Resources
 
-- [![Discover Guides](https://img.shields.io/badge/Discover_Guides-NOW-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/AutoCADMasters2025/AutoCAD2026-ResourceCenter)
-- [![Join Community](https://img.shields.io/badge/Join_Community-NOW-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/AutoCADMasters2025/AutoCAD2026-ResourceCenter)
+- [![Discover Guides](https://img.shields.io/badge/Discover_Guides-NOW-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/AutoCADMasters/.github)
+- [![Join Community](https://img.shields.io/badge/Join_Community-NOW-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/AutoCADMasters/AutoCAD2026-ResourceCenter)
 
 ---
 
